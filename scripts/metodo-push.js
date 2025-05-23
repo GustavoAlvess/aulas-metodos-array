@@ -5,5 +5,5 @@ console.table(playlist);
 
 playlist.push('Trap')
 
-console.log('Depois do push:');
+console.log('Depois do push');
 console.table(playlist);
